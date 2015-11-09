@@ -2,4 +2,4 @@
 short
 
 
-This is an eddit
+This is an edit
